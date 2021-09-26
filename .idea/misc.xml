@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/anarw/OneDrive/Desktop/node-coursera/PYMO/app/src/main/res/layout/activity_home.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/anarw/OneDrive/Desktop/node-coursera/PYMO/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/anarw/OneDrive/Desktop/node-coursera/PYMO/app/src/main/res/layout/activity_profile.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/anarw/OneDrive/Desktop/node-coursera/PYMO/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/Users/anarw/OneDrive/Desktop/node-coursera/PYMO/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.4" />
         <entry key="app/src/main/res/layout/activity_home.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="app/src/main/res/layout/activity_profile.xml" value="0.33" />
