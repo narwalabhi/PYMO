@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">PYMO</string>
     <string name="profile">Profile</string>
-    <string name="addPosts">addPosts</string>
-    <string name="topics">topics</string>
-    <string name="home">home</string>
+    <string name="addPosts">Post</string>
+    <string name="topics">Explore</string>
+    <string name="home">Home</string>
 </resources>
